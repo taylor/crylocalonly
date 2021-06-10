@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  mylib1:
+    path: deps/mylib1
+    version: 0.1.0
+

@@ -1,0 +1,14 @@
+name: mylib1
+version: 0.1.0
+
+authors:
+  - taylor <taylor@vulk.coop>
+
+description: |
+  Short description of mylib1
+
+targets:
+    mylib1:
+      main: src/mylib.cr
+
+license: MIT

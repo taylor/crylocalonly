@@ -1,0 +1,14 @@
+name: crylocalonly
+version: 0.0.1
+
+authors:
+   - name <taylor@vulk.coop>
+
+description: |
+  local dep test for crystal
+
+dependencies:
+  mylib1:
+    path: deps/mylib1
+
+license: MIT
